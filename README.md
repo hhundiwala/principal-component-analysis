@@ -6,8 +6,9 @@ This is python implementation of Principal Component Analysis for dimensionality
 Principal component analysis (PCA) is a technique used to emphasize variation and bring out strong patterns in a dataset. We use it to understand the data better. 
 
 
-### Why we need to reduce the dimension?
+### Why we need to reduce the dimensionality of data?
 Usually, at industrial level data contains hundereds of features. The most important part in analysing the data is to first visualise the data and reduce its dimension. We reduce the dimentionality of data to decrease the complexity of data. Lesser the features, lesser is the complexity. 
+
 Note: PCA also reduces the noise in data.(Explained in later part)
 
 
