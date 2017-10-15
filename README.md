@@ -11,4 +11,4 @@ Usually, at industrial level data contains hundereds of features. The most impor
 
 Note: PCA also reduces the noise in data.(Explained in later part)
 
-For detailed description of PCA and its implementation go to: https://harshhundiwala.com
+For detailed description of PCA and its implementation go to: http://harshhundiwala.com/
